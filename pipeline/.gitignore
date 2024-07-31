@@ -1,0 +1,5 @@
+*.avi
+**/predictions
+*.pyc
+**/__pycache__
+**/*.egg-info
