@@ -13,3 +13,6 @@ directory.
 The tracking pipeline may be found in the `pipeline/` directory, and includes a
 README with instructions for producing the data shown in Table II of the paper.
 
+The RTL files along with a testbench are included in the `hardware/` directory.
+
+For inquiries or assistance with using the included code and rtl, reach out to agraening@ucla.edu
