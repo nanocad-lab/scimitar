@@ -1,7 +1,7 @@
 # SCIMITAR: Stochastic Computing In-Memory In-situ Tracking ARchitecture for Event-Based Cameras
 
 This repository contains all software referred to in the SCIMITAR paper
-published in the CODES+ISS conference journal in 2024 (*LINK HERE*).
+published in the CODES+ISSS conference journal in 2024 (*LINK HERE*).
 
 The dataset is published separately
 [here](https://drive.google.com/drive/folders/1gLnVfozfZAqlfP99sqSHZTvr3I-5FWUc).
